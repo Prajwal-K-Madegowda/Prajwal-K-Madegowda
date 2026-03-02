@@ -51,6 +51,8 @@ I build production-ready AI systems with a focus on RAG pipelines, backend archi
 ---
 
 LinkedIn: https://www.linkedin.com/in/prajwal-k-m-74605a2b6/
+
 Email: prajwalkm1817@gmail.com
+
 Resume:https://drive.google.com/file/d/1z6m-KqdwIboenAVvNOaITHatce6VKaK_/view?usp=sharing
 
