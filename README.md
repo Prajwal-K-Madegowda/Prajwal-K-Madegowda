@@ -10,11 +10,11 @@ I build production-ready AI systems with a focus on RAG pipelines, backend archi
 
 ## Tech Stack
 
-**Languages:** Python, C, SQL
-**AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib, LangChain
-**Backend:** FastAPI
-**Tools:** Docker Compose, Git, GitHub, MySQL, VS Code, Jupyter
-**Core:** DSA, OOP
+**- Languages:** Python, C, SQL
+**- AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib, LangChain
+**- Backend:** FastAPI
+**- Tools:** Docker Compose, Git, GitHub, MySQL, VS Code, Jupyter
+**- Core:** DSA, OOP
 
 ---
 
